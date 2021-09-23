@@ -1,4 +1,4 @@
-# miscellaneous
+# Miscellaneous stuff
 
 ## JMap
 
